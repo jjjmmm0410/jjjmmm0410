@@ -1,5 +1,6 @@
-# Hello. I'm Jungmin Kim. 
-## I'm majoring in English Education.
+# Welcome to jjjmmm0410's Github (since 5th,March,2024)
+## I'm Jungmin Kim from South Korea. 
+### I'm majoring in English Education.
 ### I'm learning python. ☺️ ☺️ ☺️
 <!--
 **jjjmmm0410/jjjmmm0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
