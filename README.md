@@ -1,4 +1,4 @@
-# Welcome to jjjmmm0410's Github (since 5th,March,2024)
+# Welcome to jjjmmm0410's Github (since March. 5, 2024)
 ## I'm Jungmin Kim from South Korea. 
 ### I'm majoring in English Education.
 ### I'm learning python. ☺️ ☺️ ☺️
